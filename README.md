@@ -1,1 +1,1 @@
-# jkaondoakaa
+Download all files, create a db and extract the user table and admin table into your created db. Open the downloaded files with any text editor and modify the db name accordingly. Run your code and it should work perfectly. Ensure to have a local server (Xamp) running.
